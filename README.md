@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anto-amezquita
-- 👀 I’m interested in Design and Frontend Development
-- 🌱 I’m currently learning User Experience Design
+- 👀 I’m interested in UX Design and Frontend Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
