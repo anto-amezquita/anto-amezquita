@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @anto-amezquita
-- 👀 I’m interested in UX Design and Frontend Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m into in Digital Design and Development
 
 <!---
 anto-amezquita/anto-amezquita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
